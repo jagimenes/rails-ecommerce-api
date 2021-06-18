@@ -1,0 +1,4 @@
+/*= require foundation
+
+() ->
+  $(document).foundation()
